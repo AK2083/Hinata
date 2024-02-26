@@ -88,5 +88,5 @@ jobs:
           context: .
           file: ./Hinata/Dockerfile
           push: true
-          tags: ${{ needs.create_release.outputs.newTag }}
+          tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
