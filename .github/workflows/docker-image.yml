@@ -59,6 +59,7 @@ jobs:
           output-file: 'CHANGELOG.md'
           
   build-and-push-image:
+    needs: create_release
     runs-on: ubuntu-latest
 
     permissions:
