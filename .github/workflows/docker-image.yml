@@ -72,7 +72,7 @@ jobs:
 
       - name: echo something
         run: |
-          echo {{ toJSON(needs) }}
+          echo ${{ toJSON(needs) }}
         
       - name: Log in to the Container registry
         uses: docker/login-action@v3
