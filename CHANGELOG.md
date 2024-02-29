@@ -1,3 +1,12 @@
+## [0.1.7](https://github.com/AK2083/Hinata/compare/v0.1.6...v0.1.7) (2024-02-29)
+
+
+### Bug Fixes
+
+* **Hinata:** fix var ([335422d](https://github.com/AK2083/Hinata/commit/335422d0258bf04d99878114f219d26300ac42bb))
+
+
+
 ## [0.1.6](https://github.com/AK2083/Hinata/compare/v0.1.5...v0.1.6) (2024-02-29)
 
 
