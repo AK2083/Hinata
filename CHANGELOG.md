@@ -1,3 +1,12 @@
+## [0.1.6](https://github.com/AK2083/Hinata/compare/v0.1.5...v0.1.6) (2024-02-29)
+
+
+### Bug Fixes
+
+* **Hinata:** add connection ([cadcaa7](https://github.com/AK2083/Hinata/commit/cadcaa7b8fe91d0588e0200984cf61b0098d8751))
+
+
+
 ## [0.1.5](https://github.com/AK2083/Hinata/compare/v0.1.4...v0.1.5) (2024-02-29)
 
 
