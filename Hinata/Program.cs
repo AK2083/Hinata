@@ -15,7 +15,7 @@ var app = builder.Build();
 
 try
 {
-    using (var conn = new SqlConnection())
+    using (var conn = new SqlConnection(builder.Configuration["ConnectionString"]))
     {
         conn.Open();
         app.Logger.LogInformation("DB erfolgreich");
